@@ -1,0 +1,6 @@
+{
+  "name": "LT GridWatch — Live Load & Health Monitoring",
+  "description": "Real-time load, 3-phase current, thermal diagnostics, and asset health monitoring system for Low-Tension (LT) distribution transformers, feeder pillars, switchboards, and APFC banks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
